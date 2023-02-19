@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **R0m5/R0m5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 <div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
   <img src="./assets/pixel_art.gif" width="300"/>
 </div>
-<h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;">Roman!</span></h2>
+ <h2 align="center">Hi there 👋</h2> I'm 
+<!--<span style="color: #ff0080;">!</span></h2> -->
 
