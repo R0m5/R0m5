@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
-  <img src="./assets/cars.gif" width="300"/>
+  <img src="./assets/charset.gif" alt = "charset" width="300" height = "300"/>
 </div>
- <h2 align="center">Hi there 👋</h2>
+ <h2 align="center">Hi there! 👋</h2>
 <!--  I'm <span style="color: #ff0080;">!</span></h2> -->
