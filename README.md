@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+and+app+developer" />
+</div>
 
-![pixel_art](https://user-images.githubusercontent.com/112552547/219958597-6cc98893-38b1-4c65-b922-bdc54f009820.gif)
+<div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
+  <img src="./assets/pixel_art.gif" width="300"/>
+</div>
+<h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;">Roman!</span></h2>
+
