@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## :man_technologist: I’m currently learning:
 
-:eight pointed star: Redux :atom_symbol: React Native
+:eight-pointed_star: Redux :atom_symbol: React Native
 
 ## :open mailbox with lowered flag: Contacts:
 
