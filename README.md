@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 #### I am a Junior Front-End Developer now. I have experience as a Frontend developer, including knowledge of HTML5, CSS3, SASS, JavaScript, AJAX, REST API, and React. I am a fast learner, responsible, and always up for a challenge. I have developed personal projects and participated in the development of team projects.Love working in a team to achieve a common goal and always put a lot of effort into it. My english level - А2.
 
-**_See more in my
-[CV](https://drive.google.com/file/d/1gOQMPn07YmSbp538cD81bUw-Y-ovFbAV/view?usp=sharing)!✨_**
+<!-- **_See more in my
+[CV](https://*link*)!✨_** -->
 
-## :gem: My hard skills:
+## :rocket: My hard skills:
 
 - **Full Stack technologies**: CSS3, HTML5, Sass, SCSS, JavaScript, React.
 - **Task and Project Management**: Git, Trello, ClickUp
@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 - **Methodologies**: BEM, Atomic CSS
 - **English**: A2
 
-## :woman_technologist: I’m currently learning:
+## :man_technologist: I’m currently learning:
 
-:purple_circle: Redux :large_blue_circle: React Native
+:eight-pointed_star: Redux :atom_symbol: React Native
 
-## :incoming_envelope: Contact me!
+## :open_mailbox_with_lowered_flag: Contacts:
 
 - rlastovetskyi@gmail.com
-- [Telegram](https://t.me/*telegram*)
-- [LinkedIn](https://www.linkedin.com/in/**Linkedin/)
+<!-- - [Telegram](https://t.me/*telegram*)
+- [LinkedIn](https://www.linkedin.com/in/**Linkedin/) -->
 
 <!-- <div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
   <img src="./assets/charset.gif" alt = "charset" width="300"/>
