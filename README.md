@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ## :man_technologist: I’m currently learning:
 
-:eight-pointed_star: Redux :atom_symbol: React Native
+:gear: Redux :atom_symbol: React Native
 
-## :open mailbox with lowered flag: Contacts:
+## :incoming_envelope: Contacts:
 
 - rlastovetskyi@gmail.com
 <!-- - [Telegram](https://t.me/*telegram*)
